@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.editor {
+  margin: 0 auto;
+  width: 800px;
+  height: 400px;
+  border: 1px solid grey;
+}

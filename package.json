@@ -1,0 +1,23 @@
+{
+  "name": "monaco-sql-editor",
+  "version": "0.1.0",
+  "description": "SQL editor, based on monaco-editor.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luobotang/monaco-sql-editor.git"
+  },
+  "keywords": [],
+  "author": "luobotang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luobotang/monaco-sql-editor/issues"
+  },
+  "homepage": "https://github.com/luobotang/monaco-sql-editor#readme",
+  "devDependencies": {
+    "monaco-editor": "^0.15.6"
+  }
+}
